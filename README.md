@@ -14,11 +14,11 @@ Risk Category	Patient condition classification (High / Low Risk)
 Outcome	Patient outcome (Live / Die)
 
 Dataset Summary
--Total Records: 403
--High Risk Patients: 182
--Low Risk Patients: 221
--Survivors (Live): 334
--Deaths (Die): 69
+- Total Records: 403
+- High Risk Patients: 182
+- Low Risk Patients: 221
+- Survivors (Live): 334
+- Deaths (Die): 69
 -Date Range: January 2019 – December 2019
 
 Dashboard Features
