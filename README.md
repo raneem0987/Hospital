@@ -8,6 +8,7 @@ Dataset Description
 The dataset contains records from a hospital system with the following fields:
 
 | Column	| Description |
+|---------|------------|
 | Visit ID	| Unique patient visit identifier |
 | Check in Date	| Date of patient visit |
 | Risk Category	| Patient condition classification (High / Low Risk) |
