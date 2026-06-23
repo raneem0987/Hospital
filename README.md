@@ -78,8 +78,8 @@ Time Analysis
 1. Open Hospital Dash.xlsx.
 2. Navigate to the Dashboard sheet.
 3. Use the slicers to filter:
-- Risk Category
-- Outcome
+ - Risk Category
+ - Outcome
 4. Use the Timeline control to analyze specific periods.
 5. All charts and KPIs update automatically based on selected filters.         
 
