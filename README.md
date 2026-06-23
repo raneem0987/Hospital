@@ -50,7 +50,7 @@ Dataset Summary
 - Timeline Filters
 - Conditional Formatting
 
-Objectives
+### Objectives
 
 The dashboard helps users:
 
