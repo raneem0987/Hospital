@@ -23,26 +23,26 @@ Dataset Summary
 - Date Range: January 2019 – December 2019
 
 ## Dashboard Features
-## KPIs
+### KPIs
 - Total Visits
 - Total Survivors
 - Total Deaths
 - Survival Rate
 - Death Rate
 
-## Interactive Filters
+### Interactive Filters
 - Risk Category Slicer
 - Outcome Slicer
 - Timeline Filter (Check-in Date)
 
-## Visualizations
+### Visualizations
 - Monthly Visit Trend
 - Outcome Distribution
 - Risk Category Distribution
 - Survival vs Death Comparison
 - Risk Category Impact on Outcomes
 
-## Tools Used
+### Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
