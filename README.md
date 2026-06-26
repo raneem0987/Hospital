@@ -130,22 +130,6 @@ Hospital Dash.xlsx
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add a screenshot of the dashboard here.
-
-Example:
-
-```
-images/dashboard.png
-```
-
-```markdown
-![Hospital Dashboard](images/dashboard.png)
-```
-
----
-
 ## 👤 Author
 
 Developed as part of a **Data Analysis & Dashboard Visualization** project using **Microsoft Excel**, demonstrating skills in data cleaning, interactive dashboard development, KPI reporting, and business data visualization.
