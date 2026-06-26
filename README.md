@@ -1,100 +1,151 @@
-# Hospital Dashboard Project
-## Project Overview
-This project presents an interactive Hospital Dashboard built using Microsoft Excel to analyze hospital patient visit records and outcomes. The dashboard provides insights into patient risk categories, survival outcomes, and visit trends over time through dynamic charts and slicers.
+# 🏥 Hospital Dashboard (Microsoft Excel)
 
+## 📌 Project Overview
 
-## Dataset Description
+This project presents an interactive **Hospital Dashboard** built using **Microsoft Excel** to analyze hospital patient records and outcomes. The dashboard enables users to monitor patient visits, evaluate survival rates, identify risk categories, and explore trends over time using interactive visualizations and filters.
 
-The dataset contains records from a hospital system with the following fields:
+---
 
-| Column	| Description |
-|---------|------------|
-| Visit ID	| Unique patient visit identifier |
-| Check in Date	| Date of patient visit |
-| Risk Category	| Patient condition classification (High / Low Risk) |
-| Outcome	| Patient outcome (Live / Die) |
+## 📊 Dataset Description
 
-Dataset Summary
-- Total Records: 403
-- High Risk Patients: 182
-- Low Risk Patients: 221
-- Survivors (Live): 334
-- Deaths (Die): 69
-- Date Range: January 2019 – December 2019
+The dataset contains **403 hospital visit records** collected throughout **2019**.
 
-## Dashboard Features
-### KPIs
-- Total Visits
-- Total Survivors
-- Total Deaths
-- Survival Rate
-- Death Rate
+### Dataset Fields
+
+| Column        | Description                                        |
+| ------------- | -------------------------------------------------- |
+| Visit ID      | Unique identifier for each patient visit           |
+| Check-in Date | Date of the hospital visit                         |
+| Risk Category | Patient risk classification (High Risk / Low Risk) |
+| Outcome       | Patient outcome (Live / Die)                       |
+
+### Dataset Summary
+
+* **Total Records:** 403
+* **High-Risk Patients:** 182
+* **Low-Risk Patients:** 221
+* **Survivors:** 334
+* **Deaths:** 69
+* **Date Range:** January 2019 – December 2019
+
+---
+
+## 📈 Dashboard Features
+
+### KPI Cards
+
+* Total Visits
+* Total Survivors
+* Total Deaths
+* Survival Rate
+* Death Rate
 
 ### Interactive Filters
-- Risk Category Slicer
-- Outcome Slicer
-- Timeline Filter (Check-in Date)
+
+* Risk Category Slicer
+* Outcome Slicer
+* Timeline Filter (Check-in Date)
 
 ### Visualizations
-- Monthly Visit Trend
-- Outcome Distribution
-- Risk Category Distribution
-- Survival vs Death Comparison
-- Risk Category Impact on Outcomes
 
-### Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Timeline Filters
-- Conditional Formatting
+* Monthly Visit Trend
+* Outcome Distribution
+* Risk Category Distribution
+* Survival vs. Death Comparison
+* Risk Category Impact on Patient Outcomes
 
-### Objectives
+---
+
+## 🛠 Tools & Skills Used
+
+* Microsoft Excel
+* Pivot Tables
+* Pivot Charts
+* Slicers
+* Timeline Filters
+* Conditional Formatting
+* Data Visualization
+* Dashboard Design
+
+---
+
+## 🎯 Project Objectives
 
 The dashboard helps users:
 
-- Monitor hospital visit activity.
-- Analyze patient outcomes.
-- Compare outcomes across risk categories.
-- Identify trends over time.
-- Support healthcare decision-making through data visualization.
+* Monitor hospital visit activity.
+* Analyze patient survival outcomes.
+* Compare outcomes across different risk categories.
+* Identify monthly trends in patient visits.
+* Support data-driven healthcare decision-making.
 
+---
 
-## Key Insights
-Outcome Distribution
-- Approximately 83% of patients survived.
-- Approximately 17% of patients died.
-- 
-Risk Category Distribution
-- Low-risk patients represent the majority of visits.
-- High-risk patients account for a significant portion of hospital admissions.
+## 💡 Key Insights
 
-Time Analysis
-- Patient visits are distributed throughout the year.
-- Timeline filtering enables monthly and quarterly analysis.
+### Outcome Distribution
 
-## How to Use
-1. Open Hospital Dash.xlsx.
-2. Navigate to the Dashboard sheet.
-3. Use the slicers to filter:
- - Risk Category
- - Outcome
-4. Use the Timeline control to analyze specific periods.
-5. All charts and KPIs update automatically based on selected filters.         
+* Approximately **83%** of patients survived.
+* Approximately **17%** of patients died.
 
-## Project Structure
-### Hospital Dash.xlsx
- 
-#### Dashboard Sheet
-- KPI Cards
-- Pivot Charts
-- Slicers
-- Timeline Filter
+### Risk Category Analysis
 
-#### Data Sheet
-- Raw Hospital Records
+* Low-risk patients represented the majority of hospital visits.
+* High-risk patients accounted for a significant proportion of admissions and showed comparatively poorer outcomes.
 
-## Author
+### Time Analysis
 
-Developed as a Data Analysis and Dashboard Visualization project using Microsoft Excel.
+* Patient visits were distributed consistently throughout the year.
+* The Timeline Filter allows users to analyze monthly and quarterly trends dynamically.
+
+---
+
+## 🚀 How to Use
+
+1. Open **Hospital Dash.xlsx**.
+2. Navigate to the **Dashboard** worksheet.
+3. Use the slicers to filter data by:
+
+   * Risk Category
+   * Outcome
+4. Adjust the Timeline Filter to analyze specific time periods.
+5. All KPI cards and charts update automatically based on the selected filters.
+
+---
+
+## 📂 Project Structure
+
+```text
+Hospital Dash.xlsx
+│
+├── Dashboard
+│   ├── KPI Cards
+│   ├── Pivot Charts
+│   ├── Slicers
+│   └── Timeline Filter
+│
+└── Data
+    └── Raw Hospital Records
+```
+
+---
+
+## 📷 Dashboard Preview
+
+> Add a screenshot of the dashboard here.
+
+Example:
+
+```
+images/dashboard.png
+```
+
+```markdown
+![Hospital Dashboard](images/dashboard.png)
+```
+
+---
+
+## 👤 Author
+
+Developed as part of a **Data Analysis & Dashboard Visualization** project using **Microsoft Excel**, demonstrating skills in data cleaning, interactive dashboard development, KPI reporting, and business data visualization.
