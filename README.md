@@ -1,4 +1,4 @@
-# 🏥 Hospital Dashboard (Microsoft Excel)
+# 🏥 Hospital Dashboard Project
 
 ## 📌 Project Overview
 
@@ -127,7 +127,6 @@ Hospital Dash.xlsx
 └── Data
     └── Raw Hospital Records
 ```
-
 ---
 
 ## 👤 Author
